@@ -41,3 +41,5 @@ gem 'spring',        group: :development
 gem 'mysql'
 
 gem 'devise'
+
+gem 'bootstrap-sass',       '3.2.0.0'
