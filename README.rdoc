@@ -5,9 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby 3
+* Ruby version
 
-* System ubuntu 14.04
+* System dependencies
 
 * Configuration
 
